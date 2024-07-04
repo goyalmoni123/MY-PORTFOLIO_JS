@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/image 3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Background image ";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Mahashivratri moving card",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed a dynamic moving card using HTML, CSS, and JavaScript, showcasing animation skills and enhancing the visual appeal.",    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      url: "linkedin.com/in/monika-goyal-973703277",
+    },
+  {
+    title: "Modern Register & Sign-In Page",
+    description:
+      "Developed a user-friendly register and sign-in page using HTML, CSS, and JavaScript, improving user engagement by 30% with a sleek design and seamless functionality.",
+    url: "linkedin.com/in/monika-goyal-973703277",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Resume",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Aadi foundation resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://github.com/goyalmoni123/MY_RESUME.git",
   },
   {
     title: "GitHub Codespaces and github.dev",
